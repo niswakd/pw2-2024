@@ -1,6 +1,7 @@
 <?php
     include_once 'atas.php'
 ?>
+
     <div class="container my-5">
                 <h1 class="text-center mb-4">Triangle Area Calculator</h1>
                 <form action="" method="POST">
@@ -16,7 +17,9 @@
                 </form>
             </div>
 
-
+<?php
+    include_once 'bawah.php'
+?>
 
 <?php
     require_once 'libfungsi.php';

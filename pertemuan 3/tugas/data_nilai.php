@@ -70,7 +70,7 @@
 
                         $grd = grade($rrt);
 
-                        $title = kelulusan($hasil);
+                        $title = kelulusan($rrt);
 
                         
 
